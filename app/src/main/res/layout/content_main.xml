@@ -33,12 +33,12 @@
                     android:layout_weight="0.5" />
         </LinearLayout>
         <TextView
-                android:id = "@+id/imageTitle"
-                android:layout_width= "wrap_content"
-                android:layout_height= "wrap_content"
-                android:layout_marginBottom = "10dp"
-                android:tag = "MyImageTitle"
-                android:text="@string/test_image_title" />
+                android:id="@+id/imageTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:tag="MyImageTitle"
+                android:text="@string/test_image_title"/>
         <TextView
                 android:id="@+id/imageDate"
                 android:layout_width ="wrap_content"

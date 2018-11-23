@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">RSS</string>
     <string name="action_settings">Settings</string>
+    <string name="image_precedente">Previous Image</string>
+    <string name="image_suivante">Next Image</string>
+    <string name="test_image_title">TestImageTitle</string>
+    <string name="test_image_date">xx/yy/zzzz</string>
+    <string name="description_image">A random description</string>
+    <string name="test_image_description">Another random description</string>
 </resources>
